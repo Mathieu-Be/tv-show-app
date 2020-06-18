@@ -1,0 +1,84 @@
+
+select{
+    margin-bottom: 30px;
+}
+
+section{
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+
+main {
+    padding-bottom: 100px;
+}
+
+/* .jumbotron {
+    margin-bottom: 0;
+    padding-bottom: 150px;
+}
+
+main.jumbotron{
+    height: 300%;
+    padding-bottom: 100px;
+}
+
+main .favoris{
+    height:100%;
+} */
+
+#series{
+    background: url('../img/tv2.jpg') no-repeat center center;
+}
+
+#series h1{
+    color: white;
+}
+
+
+#search{
+    background: url('../img/research.jpg') no-repeat center center;
+}
+
+#search h1{
+    color: white;
+}
+
+
+#register{
+    background: url('../img/register.jpg') no-repeat center center;
+}
+
+#register h1{
+    color: white;
+}
+
+#login{
+    background: url('../img/login.jpg') no-repeat center center;
+}
+
+#login h1{
+    color: white;
+}
+
+#see, #favoris{
+    background: url('../img/voir.jpg') no-repeat center center;
+}
+
+#see h1, #favoris h1{
+    color: white;
+}
+
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+ 
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    color: #FFFFFF;
+}
+
